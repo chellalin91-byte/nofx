@@ -1,0 +1,14 @@
+# متطلبات مولد خطة البحث
+# Research Plan Generator Requirements
+
+# لا توجد مكتبات خارجية مطلوبة - يستخدم المكتبات القياسية فقط
+# No external libraries required - uses standard library only
+
+# للتطوير المستقبلي (اختياري):
+# For future development (optional):
+
+# pandas>=2.0.0          # لتحليل البيانات
+# matplotlib>=3.7.0      # للرسوم البيانية
+# reportlab>=4.0.0       # لتوليد PDF
+# python-docx>=1.0.0     # لتوليد ملفات Word
+# jinja2>=3.1.0          # لقوالب HTML
